@@ -1,3 +1,11 @@
+# Output in light mode
+![Output_Light_mode](https://user-images.githubusercontent.com/92413748/160241087-c2261e60-7a05-41f9-89e6-240849ca97ce.png)
+
+# Output in Dark mode
+![Output_Dark_mode](https://user-images.githubusercontent.com/92413748/160241112-105433ca-9321-461e-84a7-c53bb60a89da.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
